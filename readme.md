@@ -29,7 +29,7 @@ Insertion sort a göre sıralama işlemi dizinin küçükten büyüğe sıralanm
 
 Big O notation -->O(n^2)
 
-### 3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+### 3) Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Avarage Case
 
